@@ -1,0 +1,419 @@
+Coluna,Tradução,Passe,Finalização,Intensidade,Defensivo,Cruzamento,Drible/corrida,Movimentação ofensiva,Movimentação defensiva,Ofensivo/Defensivo,Inverso,Bola Parada,Assistência,Gol,Disciplina,Aparentemente inútil,Estilo,Pé dominante,Passe Recebido
+Gol decisivo/gol %,Gol decisivo/gol %,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n
+Passes Certos %,Passes Certos %,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Passes Progressivos %,Passes Progressivos %,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Passes Progressivos/Passes %,Passes Progressivos/Passes %,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Passes Verticais/Passes %,Passes Verticais/Passes %,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_acceleration,Aceleração,n,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_acceleration_success,Aceleração,n,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_action,Ações,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_action_in_counterattack,Ações em contra-ataque,n,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_action_in_counterattack_success,Ações em contra-ataques,n,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_action_success,Ações,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_aerial_duel,Duélo aéreo,n,n,n,s,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_aerial_duel_in_own_penalty_area,Duelo aéreo na própria área,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_aerial_duel_in_own_penalty_area_success,Duelo aéreo na própria área ganho,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_aerial_duel_success,Duelo aéreo,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_any_free_kick,Falta cobrada,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_any_free_kick_success,Falta cobrada,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_any_goal,Gol,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_any_goal_success,Gol,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n
+playerStats_assist,Assistência,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_assist_success,Assistência,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_back_pass,Passe para trás,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_back_pass_success,Passe para trás,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_back_pass_to_gk,Passe curto pro goleiro,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_back_pass_to_gk_success,Passe curto pro goleiro,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_ball_delivery_to_danger_zone,Passe para zona perigosa,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ball_delivery_to_danger_zone_success,Passe para zona perigosa,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ball_delivery_to_penalty_area,Passe para a área do pênalti,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ball_delivery_to_penalty_area_success,Passe para a área do pênalti,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ball_entry_in_final_third,Condução de bola para o terço final,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ball_entry_in_final_third_success,Condução de bola para o terço final,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ball_loss,Perda de bola,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_blocked_shot,Finalização bloqueada,-,-,-,-,-,-,-,-,-,-,-,-,-,n,-,n,n,n
+playerStats_buildup_pass,Passe para saída de bola,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_buildup_pass_success,Passe para saída de bola,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_card_suffered,Cartão tomado,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n
+playerStats_card_suffered_success,Cartão tomado,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_clearance,Rebatida,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_clearance_success,Rebatida,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_controlled_penalty_area_entry,Entrada na área com a bola controlada,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n,n
+playerStats_controlled_penalty_area_entry_success,Entrada na área com a bola controlada,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n,n
+playerStats_corner,Escanteio,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_corner_success,Escanteio,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_corner_with_shot,Escanteio com finalização,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_corner_with_shot_success,Escanteios com finalização,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_corner_won_from_another_corner,Escanteio ganho de outro escanteio,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_corner_won_from_cross,Escanteio com cruzamento,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_corner_won_from_cross_success,Escanteio com cruzamento,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_corner_won_from_loose_ball_duel,Escanteio ganho em duelo,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_corner_won_from_off_duel,Escanteio ganho em duelo,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_corner_won_from_off_duel_success,Escanteio ganho em duelo,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_corner_won_from_shot,Escanteio ganho com chute,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_corner_won_from_shot_success,Escanteio ganho com chute,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_counterattack_interception,Interceptação em contra-ataque,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_covering_depth,Cobertura defensiva,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n
+playerStats_cross,Cruzamento,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cross_block,Cruzamento bloqueado,n,n,n,n,s,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_cross_blocked,Cruzamento bloqueado,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cross_from_left,Cruzamento pela esquerda,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_from_left_success,Cruzamento pela esquerda,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_from_right,Cruzamento pela direita,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_from_right_success,Cruzamento com a direita,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_high,Cruzamento alto,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_high_success,Cruzamento alto,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_low,Cruzamento rasteiro,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_low_success,Cruzamento por baixo,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_cross_success,Cruzamento certo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cross_to_goalie_box,Cruzamento para o gol,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cross_to_goalie_box_success,Cruamento para o gol,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cross_to_penalty_area,Cruzamento para a área do pênalti,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cross_to_penalty_area_success,Cruzamento para a área do pênalti,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_cutback,playerStats_cutback,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_cutback_success,playerStats_cutback_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_dangerous_foul,Falta perigosa,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n
+playerStats_dangerous_lost_defensive_duel,Duelo defensivo perigoso perdido,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_dangerous_opponent_half_recovery,Recuperação de bola no campo adversário,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dangerous_opponent_half_recovery_success,Recuperação de bola perigosa no campo adversário,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dangerous_own_half_loss,Bola perdida perigosa em seu campo,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_dangerous_own_half_loss_success,Bola perdida perigosa em seu campo,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_decisive_goal,Gol decisivo,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n
+playerStats_decisive_goal_success,Gol decisivo,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n
+playerStats_deep_completed_cross,Cruzamento do fundo,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_deep_completed_cross_success,Cruzamento do fundo,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_deep_completed_pass,Passe profundo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_deep_completed_pass_success,Passe profundo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_deep_completed_run,Corrida do fundo,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_deep_completed_run_success,Corrida do fundo,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_duel,Duelo defensivo,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_duel_regain,Duelo retomado,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_duel_regain_success,Duelo retomado,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_duel_success,Duelo defensivo ganho,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_one_on_one,Duelo defensivo 1 vs 1,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_one_on_one_success,Duelo defensivo 1 vs 1,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_positioning,Posição defensiva correta,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n
+playerStats_diagonal_to_flank,Passe diagonal para o corredor,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_diagonal_to_flank_success,Passe diagonal para o corredor,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_direct_free_kick,Falta direta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_direct_free_kick_success,Falta direta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_dribble,Drible,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dribble_against,Drible tomado,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_dribble_against_success,Drible tomado,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_dribble_against_with_take_on,Drible tomado com ultrapassagem,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dribble_against_with_take_on_success,Drible tomado com ultrapassagem,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dribble_attempt,Tentativa de drible,n,n,n,n,n,s,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_dribble_attempt_success,Tentativa de drible,n,n,n,n,n,s,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_dribble_in_danger_zone,Drible em zona perigosa,n,n,n,n,n,s,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_dribble_in_danger_zone_success,Drible em zona perigosa,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_dribble_success,Drible,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dribble_with_progress,Drible progressivo,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dribble_with_progress_success,Drible com progresão,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_dribble_with_space,Drible com espaço,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_dribble_with_space_success,Drible com espaço,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_dribble_with_take_on,Drible com ultrapassagem,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_dribble_with_take_on_success,Drible com ultrapassagem,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_dribble_won_v2,playerStats_dribble_won_v2,n,n,n,n,n,s,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_dribble_won_v2_success,playerStats_dribble_won_v2,n,n,n,n,n,s,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_dribbled_past_attempt,Tentativa de drible contra,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_dribbled_past_attempt_success,Tentativa de drible contra,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_duel,Duelos,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_duel_success,Desarmes,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_duel_with_foul,Duelo com falta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_duel_with_foul_success,Duelo com falta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_first_goal,Primeiro gol,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,s,n,n
+playerStats_first_goal_success,Primeiro gol,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,s,n,n
+playerStats_forward_pass,Passe para frente,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_forward_pass_success,Passe para frente,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_foul,Falta,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_foul_suffered,Falta sofrida,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_foul_suffered_success,Falta sofrida,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_free_kick,Falta cobrada,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_cross,Falta cruzada,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_cross_success,Cruzamento em falta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_shot,Finalização em falta direta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_shot_gained,playerStats_free_kick_shot_gained,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_shot_gained_success,playerStats_free_kick_shot_gained,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_shot_success,Falta direta com finalização,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_success,Falta cobrada,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_with_shot,Finalização em falta direta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_free_kick_with_shot_success,Falta direta com finalização,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n
+playerStats_goal,Gol,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_goal_after_corner,Gol após escanteio,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_after_corner_success,Gol após escanteio,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_after_free_kick,Gol após falta,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_after_free_kick_success,Gol após falta,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_after_throw_in,Gol após lateral,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_after_throw_in_success,Gol após lateral,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_from_cross,Gol de cruzamento,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_from_cross_success,Gol de cruzamento,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_from_outside_area,Gols de fora da área,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_from_outside_area_success,Gol fora da área,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_goal_success,Gol,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_ground_duel,Duelo no chão,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_ground_duel_success,Duelo por baixo,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_hand_foul,Mão na bola,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_head_goal,Gol de cabeça,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_head_goal_success,Gol de cabeça,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_head_pass,Passe de cabeça,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_head_pass_success,Passe de cabeça,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_head_shot,Finalização de cabeça,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_head_shot_success,Finalização de cabeça,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_heading,Cabeçada,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_heading_success,Cabeceio,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_highlight,playerStats_highlight,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_highlight_success,playerStats_highlight_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_indirect_free_kick,Falta indireta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n
+playerStats_indirect_free_kick_success,Falta indireta,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n
+playerStats_infraction,Infração,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+playerStats_inside_run,Corrida por dentro,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_inside_run_success,Corrida por dentro,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_interception,Interceptação,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_interception_success,Interceptação,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_key_pass,Passe chave,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_key_pass_success,Passe chave,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_key_pass_v2,Passe chave,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_key_pass_v2_success,Passe chave,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_kick_off,Tiro de meta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,s,-,n,n
+playerStats_kick_off_success,Tiro de meta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,s,-,n,n
+playerStats_last,playerStats_last,-,-,-,-,-,-,-,-,-,-,-,-,-,-,s,-,n,n
+playerStats_last_success,playerStats_last_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,s,-,n,n
+playerStats_late_card_foul,Cartão tomado,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+playerStats_lateral_pass,Passe lateral,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_lateral_pass_success,Passe lateral,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_launch,playerStats_launch,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n,n
+playerStats_launch_success,playerStats_launch_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_left_foot_goal,Gol com a perna esquerda,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n
+playerStats_left_foot_goal_success,Gol com a perna esquerda,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n
+playerStats_left_foot_shot,Finalização com a esquerda,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n
+playerStats_left_foot_shot_success,Finalização com a esquerda,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n
+playerStats_left_throw_in,Lateral pela esquerda,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_left_throw_in_success,Lateral pela esquerda,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_legacy_dribble_success,playerStats_highlight,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_legacy_dribble_success_success,playerStats_legacy_dribble_success_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_legacy_won_defensive_duel,playerStats_legacy_won_defensive_duel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_legacy_won_defensive_duel_success,playerStats_legacy_won_defensive_duel_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_legacy_won_duel,playerStats_legacy_won_duel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_legacy_won_duel_success,playerStats_dribble_won_v2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_legacy_won_offensive_duel,playerStats_legacy_won_offensive_duel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_legacy_won_offensive_duel_success,playerStats_legacy_dribble_success_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_linkup_play,Pivot,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_linkup_play_success,Pivot,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_long_ground_pass,Passe longo por baixo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_long_ground_pass_success,Passe longo por baixo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_long_pass,Passe longo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_long_pass_into_duel,Passe longo em duelo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_long_pass_into_duel_success,Passe longo em duelo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_long_pass_or_cross,Passe longo ou cruzamento,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_long_pass_or_cross_success,Passe longo ou cruzamento,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_long_pass_success,Passe longo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_loose_ball_duel,Perda de bola em duelo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_loose_ball_duel_success,playerStats_loose_ball_duel_success,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss,Perda de bola,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss_after_duel,Perda de bola após duelo,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss_after_duel_success,Perda de bola após duelo,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss_after_pass,Perda de bola após passe,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss_after_pass_success,Perda de bola após passe,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss_success,Perda de bola,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_loss_v2,playerStats_loss_v2,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_loss_v2_success,playerStats_loss_v2_success,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_lost_defensive_duel,Duelo defensivo perdido,n,n,n,s,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_low_through_ball,Passe infiltrado por baixo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_low_through_ball_success,Passe infiltrado por baixo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_meaningless,playerStats_meaningless,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_minus,playerStats_minus,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_minus_success,playerStats_minus_success,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_misconduct,Indisciplina,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_missed_ball,Bola perdida,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_non_penalty_goal,Gol sem ser de pênalti,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n
+playerStats_non_penalty_goal_success,Gol sem ser de pênalti,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n
+playerStats_off_the_ball,Movimentos sem bola,n,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_offensive_duel,Duelo ofensivo,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_offensive_duel_success,Duelo ofensivo,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_offensive_duel_with_progress,Duelo ofensivo com progressão,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_offensive_duel_with_progress_success,Duelo ofensivo com progressão bem sucedido,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_offensive_shielding,Proteção da bola (pivot),-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_offensive_shielding_success,Proteção da bola (pivot),-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_offside,Impedimento,n,n,n,n,n,n,s,n,n,s,n,n,n,n,n,n,n,n
+playerStats_one_on_one,1 vs 1,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_one_on_one_success,1 vs 1,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_opponent_half_recovery,Recuperação no campo adversário,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_opponent_half_recovery_success,Recuperação no campo adversário,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_opportunity,Oportunidade de gol,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_opportunity_creation,Oportunidade criada,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_opportunity_creation_success,Oportunidade criada,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_opportunity_success,Oportunidade de gol,-,-,-,-,-,,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_out_of_play_foul,Falta fora da disputa de bola,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n
+playerStats_own_half_loss,Perda de bola no próprio campo,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_own_half_loss_success,Perda de bola no próprio campo,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_pass,Passe,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_behind_the_back,Passe por trás das costas,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_pass_behind_the_back_success,Passe por trás da costas,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_pass_followed_by_teammate_loss,playerStats_pass_followed_by_teammate_loss,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_pass_followed_by_teammate_loss_success,playerStats_pass_followed_by_teammate_loss_success,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_pass_into_duel,Passe em duelo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_into_duel_success,Passe em duelo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_success,Passe certo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_another_flank,Virada de jogo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_another_flank_success,Virada de jogo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_final_third,Passe para o terço final,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_final_third_success,Passe para o terço final,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_penalty_area,Passe para a área do pênalti,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_penalty_area_success,Passe para a área do pênalti,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_penalty_area_v2,Passe para a área do pênalti,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_penalty_area_v2_success,Passe para a área do pênalti,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_zone_fourteen,Passe para a zona 14,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_to_zone_fourteen_success,Passe para a zona 14,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_within_final_third,Passe  no terço final,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pass_within_final_third_success,Passe  no terço final,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_penalty,Penalti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_penalty_goal,Gol de pênalti,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,s,n,n
+playerStats_penalty_goal_success,Gol de pênalti,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,s,n,n
+playerStats_penalty_success,Pênalti,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,s,n,n
+playerStats_penalty_suffered,Pênalti sofrido,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_penalty_suffered_success,Pênalti sofrido,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pending_card,Pendurado,n,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n,n
+playerStats_pick_up,playerStats_pick_up,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_pick_up_success,playerStats_opportunity_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_plus,playerStats_plus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_plus_success,playerStats_plus_success,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_postmatch_penalty,Gol em disputa de pênalti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_postmatch_penalty_success,Gol em disputa de pênalti,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_pre_assist,Pré assistência,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_pre_assist_success,Pré assistência,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_pre_pre_assist,Pré pré-assistência,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_pre_pre_assist_success,Pré pré-assistência,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_pre_shot_assist,Pré-assistência para finalização,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_pre_shot_assist_success,Pré-assistência para finalização,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_pressed_sequence_loss,Perda de bola após pressão,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_pressed_sequence_loss_success,playerStats_pressed_sequence_loss_success,n,n,n,n,n,n,n,n,s,s,n,n,n,n,n,n,n,n
+playerStats_pressed_sequence_recovery,Recuperação pós perda em sequencia,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pressed_sequence_recovery_success,Recuperação pós perda em sequencia,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_pressing_duel,Pressão,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_progressive_pass,Passe progressivo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_progressive_pass_success,Passe progressivo,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_progressive_run,Corrida progressiva,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_progressive_run_success,Corrida progressiva,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_protest_foul,Reclamação,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,n
+playerStats_quick_recovery,Recuperação pós perda,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_quick_recovery_success,Recuperação pós perda,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_real_won_duel,playerStats_legacy_won_duel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_real_won_duel_success,playerStats_dribble_won_v2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_received_cross,Cruzamento recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_cross_success,Cruzamento recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_dangerous_pass,Passe perigoso recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_dangerous_pass_success,Passe perigoso recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_long_pass,Passe longo recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_long_pass_success,Passe longo recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_pass,Passe recebido,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_pass_in_final_third,Passe recebido no terço final,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_pass_in_final_third_on_side,playerStats_received_pass_in_final_third_on_side,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_pass_in_final_third_on_side_success,playerStats_received_pass_in_final_third_on_side_success,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_pass_in_final_third_success,Passe recebido no terço final,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_pass_success,Passe certo recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_progressive_pass,Passe progressivo recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_received_progressive_pass_success,Passe progressivo recebido,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s
+playerStats_recovery,Recuperação de bola,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_recovery_counterpressing,Pressão pós perda,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_recovery_counterpressing_success,Pressão pós perda,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_recovery_success,Recuperação de bola,n,n,s,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_red_card_minute,Minuto do cartão vermelho,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+playerStats_red_cards,Cartão vermelho,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+playerStats_regular_foul,Falta normal,n,n,n,s,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+playerStats_right_foot_goal,Gol com a direita,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n
+playerStats_right_foot_goal_success,Gols com a direita,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n
+playerStats_right_foot_shot,Finalização certa com a perna direita,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n
+playerStats_right_foot_shot_success,Finalização com a direita,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n
+playerStats_right_throw_in,Lateral pela direita,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_right_throw_in_success,Lateral pela direita,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_run,Corrida,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_run_success,Corrida,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_run_to_final_third,Corrida para o terço final,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_run_to_final_third_success,Corrida para o terço final,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_short_back_shot_assist,Passe curto para trás assistência,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_short_back_shot_assist_success,Passe curto para trás,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_short_medium_pass,Passe curto/médio,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_short_medium_pass_success,playerStats_short_medium_pass_success,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_shot,Finalização,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_shot_after_corner,Finalização em escanteios,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_after_corner_success,Finalização após escanteio,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_after_free_kick,Finalização após cobrança de falta,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_after_free_kick_success,Finalização após cobrança de falta,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_after_throw_in,Finalização após lateral,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_after_throw_in_success,Finalização após lateral,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_assist,Assistência para finalização,s,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_shot_assist_in_counterattack,Assistência para finalização em contra-ataque,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n
+playerStats_shot_assist_in_counterattack_success,Assistência em contra-ataque,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n
+playerStats_shot_assist_success,Assistência,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_shot_block,Finalização bloqueada,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_shot_block_success,Finalização bloqueada,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_shot_buildup_pass,Finalização em jogada bem trabalhada,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_buildup_pass_success,Passe para saída de bola,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n
+playerStats_shot_from_box,Finalização dentro da área,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_box_success,Finalização de dentro da área,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_cross,Finalização em cruzamentos,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_cross_success,Finalização em cruzamentos,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_danger_zone,Finalização de área perigosa,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_danger_zone_success,Finalização de zona perigosa,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_outside_area,Finalização de fora da área,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_outside_area_success,Finalização de fora da área,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_penalty_area,Finalização na área do pênalti,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_penalty_area_success,Finalização na área do pênalti,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_play,Finalização em jogadas trabalhadas,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_from_play_success,Finalização em jogada trabalhada,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_in_counterattack,Finalização em contra-ataque,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_in_counterattack_success,Finalização em contra-ataque,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,s,n,n
+playerStats_shot_on_goal,Finalização no alvo,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_shot_on_goal_assist,Assistência para chute no alvo,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_shot_on_goal_assist_success,Assistência para chute no alvo,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_shot_on_goal_success,Finalização no alvo,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_shot_on_post,Finalização na trave,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_success,Finalização,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_shot_to_far_corner,Finalização pra muito pra fora,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_to_far_corner_success,playerStats_shot_to_far_corner_success,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_to_near_corner,playerStats_shot_to_near_corner,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_to_near_corner_success,playerStats_shot_to_near_corner_success,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_shot_wide,Finalização pra fora,n,s,n,n,n,n,n,n,n,n,n,n,n,n,s,s,n,n
+playerStats_smart_pass,Passe entre dois ou mais jogadores,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_smart_pass_success,Passe entre dois ou mais jogadores,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_smart_pass_v2,Passe entre dois ou mais jogadores,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_smart_pass_v2_success,Passe entre dois ou mais jogadores,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_stopped_progress_defensive_duel,Duelo que impediu a progressão,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_stopped_progress_defensive_duel_success,Duelo defensivo impedindo progressão,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_successful_dribble_leading_to_shot,Chute após drible,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_successful_dribble_leading_to_shot_success,Finalização após drible,n,s,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_tackle,Carrinho,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_tackle_success,Carrinho bem sucedido,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_through_pass,Passe infiltrado,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_through_pass_success,Passe infiltrado,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_through_pass_v2,Passe infiltrado,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_through_pass_v2_success,Passe infiltrado,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_throw_in,Lateral,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_throw_in_success,Lateral,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_total_actions,Ações totais,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_total_actions_success,Ações totais certas,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_touch,Toque,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_touch_in_box,Toque na área,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_touch_in_box_success,Toque certo na área,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_touch_in_final_third,Toques no terço final,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_touch_in_final_third_success,Toque na área,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_touch_in_penalty_area,Toques na área do pênalti,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_touch_in_penalty_area_success,Toque certo na área do pênalti,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n,n,n
+playerStats_under_pressure,Pressionado,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_under_pressure_success,Pressionado,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n,n,n,n
+playerStats_vertical_pass,Passe vertical,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_vertical_pass_success,Passe vertical,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_xg_assist,xA,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+playerStats_xg_save,xG save,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+playerStats_xg_shot,xG,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_yellow_card_minute,Minuto do cartão amarelo,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+playerStats_yellow_cards,Cartão amarelo,n,n,n,n,n,n,n,n,n,s,n,n,n,s,n,n,n,n
+xA diferença,xA diferença,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+xA/assist,xA/assist,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+xA/assistência,xA/assistência,n,n,n,n,n,n,n,n,n,n,n,s,n,n,n,n,n,n
+xG diferença,xG diferença,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+xG diference,xG diference,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+xG/chute,xG/chute,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+xG/shot,xG/shot,n,s,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+playerStats_defensive_mistake,Erro defensivo,,,,,,,,,,,,,,,,,,
+playerStats_assist_from_set_piece,Assistência de bola parada,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,65 @@
+Name,Significado,Referência
+Aceleração,Corrida signficativa com a bola numa distância de pelo menos 10 metros,https://dataglossary.wyscout.com/acceleration/
+Ações,Todos eventos realizados pelo atleta,
+Cobertura defensiva,Ação defensiva na qual há uma corrida para cobrir um espaço vazio. ,https://dataglossary.wyscout.com/covering_depth/
+Corrida,,
+Corrida Progressiva,Controle de bola de forma contínua em direção ao gol adversário. Olhar referência para ver as distâncias consideradas,https://dataglossary.wyscout.com/progressive_run/
+Cruzamentos,Passe realizado pelos flancos mirando em um companheiro na grande área que esteja na direção do gol,https://dataglossary.wyscout.com/cross/
+Cruzamentos certos,Todos cruzamentos no qual o jogador alvo domina a bola,https://dataglossary.wyscout.com/cross/
+Drible,Tentativa do jogador que está atacando de passar pelo oponente e manter a posse da bola,https://dataglossary.wyscout.com/dribble/
+Drible com espaço,Drible no qual o jogador de ataque cria espaço para executar sua próxima ação,https://dataglossary.wyscout.com/dribble/
+Drible com ultrapassagem,Tentativa de drible na qual o jogador que compete pela bola é ultrapassado pelo jogador que está atacando,https://dataglossary.wyscout.com/dribble/
+Drible Progressivo,Configura-se como o drible em direção ao gol do adversário,https://dataglossary.wyscout.com/dribble/
+Duelo aéreo ganho,"Disputa entre dois jogadores de times opostos pela bola quando ela está no ar, na qual o jogador avaliado toca primeiro na bola",https://dataglossary.wyscout.com/aerial_duel/
+Duelo aéreo na própria área,"Disputa entre dois jogadores de times opostos pela bola quando ela está no ar, na qual o jogador avaliado está na sua própria área",https://dataglossary.wyscout.com/aerial_duel/
+Duelo aéreo na própria área ganho,"Disputa entre dois jogadores de times opostos pela bola quando ela está no ar, na qual o jogador avaliado está na sua própria área e toca primeiro na bola",https://dataglossary.wyscout.com/aerial_duel/
+Duelo defensivo,Tentativa do jogador de interromper o ataque adversário,
+Duelo defensivo ganho,Duelo defensivo no qual o jogador retoma a posse da bola,
+Entrada na área com a bola controlada,,
+Erro defensivo,,
+Falta,Infração cometida segundo as regras do futebol,
+Finalização,Ação de chute na intenção de marcar um gol ,https://dataglossary.wyscout.com/shot/
+Finalização após drible,Chute executado após uma ação de drible,
+Finalização bloqueada,Chute executado no qual o adversário bloqueia a passagem da bola,
+Finalização de dentro da área,Chute executado  região da grande área,
+Finalização em contra-ataque,Chute ao final de uma ação de transição defensiva para o ataque no qual o adversário está fora de sua formação defensiva,https://dataglossary.wyscout.com/counterattack/
+Finalização/Toque na área,Razão entre todos os chutes e toques na área,
+Gol decisivo/Gol %,Razão percentual entre gols que definiram o resultado final e gols totais,
+Gol sem ser de pênalti,Gols que não originaram a partir de uma cobrança de pênalti,
+Interceptação,"Movimento de antecipação ativa a uma ação de chute, cruzamento ou passe realizada pelo oponente",https://dataglossary.wyscout.com/counterattack/
+Movimentos sem bola,"Busca ativa do jogador sem a bola por um espaço, se posicionando para atacar e receber a bola",https://dataglossary.wyscout.com/off_the_ball/
+Oportunidade de gol,Chance clara de gol,https://dataglossary.wyscout.com/opportunity/
+Passe certo,Tentativa de passe para o companheiro,https://dataglossary.wyscout.com/pass/
+Passe chave,Um passe que cria uma chance clara de gol,https://dataglossary.wyscout.com/key_pass/
+Passe diagonal para o corredor,,
+Passe entre dois ou mais jogadores,,
+Passe infiltrado,Passe no espaço rompendo a linha de defesa adversária,https://dataglossary.wyscout.com/through_pass/
+Passe longo em duelo,Passe no chão que percorre mais que 45 metros de distância ou passe aéreo que viaja mais de 25 metros,https://dataglossary.wyscout.com/long_pass/
+Passe para saída de bola,,
+Passe progressivo,Passes que movem a bola em direção ao gol adversário. Para ver a definição por zonas consulte a referência,https://dataglossary.wyscout.com/progressive_pass/
+Passes progressivo recebido,Recepção de um passe progressivo certo pelo seu companheiro,https://dataglossary.wyscout.com/progressive_pass/
+Passe recebido,Recepção de um passe certo,
+Passes progressivos/Passes %,Razão percentual que indica quanto dos passes do jogador foram progressivos,
+Perda de bola,O jogador em questão perde a posse da bola,https://dataglossary.wyscout.com/loss/
+Posição defensiva correta,Corrida executada pelo defensor para recuperar sua posição e prevenir o ataque adversário,https://dataglossary.wyscout.com/defensive_positioning/
+Pressionado,,
+Pressão,"Tentativa de duelo no qual o defensor aplica uma pressão, sem que haja contato físico ou com a bola",https://dataglossary.wyscout.com/pressing_duel/
+Proteção da bola,,
+Pré assistência,Última ação executada pelo jogador antes da assistência,https://dataglossary.wyscout.com/pre_assist/
+Pré pré-assistência,Precede a pré assistência,
+Pré-assistência para finalização,,
+Rebatida,,
+Recuperação de bola,Ação que encerra a posse de bola do time adversário,https://dataglossary.wyscout.com/recovery/
+Recuperação pós perda,Ação que encerra a posse de bola do time adversário em menos de 5 segundos,https://dataglossary.wyscout.com/counterpressing_recovery/
+Recuperação pós perda em sequência,,
+Toque,Ação que não se configura como passe ou outra ação identificável ,https://dataglossary.wyscout.com/touch/
+Toque certo na área,Toques  na grande área e mantém a posse da bola,https://dataglossary.wyscout.com/touch_in_box/
+Toque certo na área do pênalti,,
+Toque na área,Toques na grande área,
+Toque na área %,Razão percentual entre toques certos e todos os toque na grande área,
+Toques no terço final,Toques executados no ataque,
+Virada de jogo,,
+xA/assistência,Razão entre assistências esperadas e assistências,
+xG/chute,Razão entre gols esperados e finalizações,
+xG,"Probabilidade da finalização de ser marcado o gol medida através de vários parâmetros como: Local do chute, origem do passe, parte do corpo, etc. Seu valor varia entre 0 e 1",https://dataglossary.wyscout.com/xg/
+xA,Probabilidade de um passe para finalização ser convertida em gol. Valor em torno de 0 e 1,https://dataglossary.wyscout.com/xa/
