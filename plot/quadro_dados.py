@@ -98,15 +98,18 @@ class PlotStatsQuadro:
         
         altura = 280
         for coluna in lista_ordenar[0:16]:
-            altura = write_stats(altura, coluna, 250, 1000)
+            if coluna != 'playerStats_minutes_on_field':
+                altura = write_stats(altura, coluna, 250, 1000)
         altura = 280
 
         for coluna in lista_ordenar[16:32]:
-            altura = write_stats(altura, coluna, 1400, 2200)
+            if coluna != 'playerStats_minutes_on_field':
+                altura = write_stats(altura, coluna, 1400, 2200)
 
         altura = 280
         for coluna in lista_ordenar[32:]:
-            altura = write_stats(altura, coluna, 2600, 3500)
+            if coluna != 'playerStats_minutes_on_field':
+                altura = write_stats(altura, coluna, 2600, 3500)
 
         footure = Image.open('Logo/Copy of pro_branco.png')
         w, h = footure.size

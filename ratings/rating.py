@@ -47,6 +47,7 @@ class AlgoritmoRating:
 
     def algoritmo_volante(self):
         df = self.df
+        df['campeonato'] = 1
         volante_construtor = round((df['playerStats_key_pass_algoritmo'] * df['playerStats_pass_algoritmo'] * df[
             'xA/assistência'] * df['playerStats_smart_pass_algoritmo'] * df['Passes Progressivos/Passes %'] * df[
                                         'playerStats_through_pass_algoritmo']) * (
@@ -89,6 +90,7 @@ class AlgoritmoRating:
 
     def algoritmo_extremo(self):
         df = self.df
+        df['campeonato'] = 1
 
         extremo_armador = round((df['playerStats_key_pass_algoritmo'] * df['playerStats_pass_algoritmo'] * df[
             'xA/assistência'] * df['playerStats_smart_pass_algoritmo'] * df['Passes Progressivos/Passes %'] * df[
@@ -136,6 +138,7 @@ class AlgoritmoRating:
 
     def algoritmo_meio_campo(self):
         df = self.df
+        df['campeonato'] = 1
         armador = round(((df['xG/chute'] + df['playerStats_pre_assist_algoritmo'] + df[
             'playerStats_under_pressure_algoritmo'] + df['playerStats_through_pass_algoritmo'] + df[
                               'playerStats_pre_pre_assist_algoritmo'] + df['playerStats_cross_algoritmo'] + df[
@@ -168,6 +171,7 @@ class AlgoritmoRating:
 
     def algoritmo_lateral(self):
         df = self.df
+        df['campeonato'] = 1
         construtor = round((df['playerStats_key_pass_algoritmo'] * df['playerStats_pass_algoritmo'] * df[
             'xA/assistência'] * df['playerStats_smart_pass_algoritmo'] * df['Passes Progressivos/Passes %'] * df[
                                 'playerStats_through_pass_algoritmo']) * (
@@ -201,6 +205,7 @@ class AlgoritmoRating:
 
     def algoritmo_zagueiro(self):
         df = self.df
+        df['campeotnato'] = 1
         construtor = round(((df['playerStats_received_pass'] ** df['playerStats_pass_algoritmo'] ** 2) * df[
             'playerStats_smart_pass_algoritmo'] * df['Passes Progressivos/Passes %'] * df[
                                 'playerStats_through_pass_algoritmo']) * (

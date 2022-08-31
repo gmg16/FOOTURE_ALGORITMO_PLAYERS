@@ -5,6 +5,8 @@ from ratings.radar_stats import RadarStats
 from plot.funcoes import PlotFuncoes
 from plot.plot_radar import Radar
 from plot.quadro_dados import PlotStatsQuadro
+from aux.translate_positions import translate
+from aux.position_stats import stats_by_position
 
 
 
@@ -16,6 +18,7 @@ class Algoritmo:
                 search_filter={'season_id': season_id, 'primary_position': position})
         data_process = PreRating(self.df, position)
         self.df_algoritmo = data_process.data_normalize()
+        self.position = position
 
 
         if position == 'Atacante':
@@ -60,8 +63,10 @@ class Algoritmo:
             db='footure', collection='position_stats',
             search_filter={}
         )
-        position_columns = df_colums_position[self.position][0]
+        position_columns = stats_by_position.get_stats_by_position()[self.position]
         df_to_quadro_stats = self.df[['id', 'name','playerStats_minutes_on_field'] + position_columns]
+        dic_translate = translate.get_translate()
+        df_to_quadro_stats = df_to_quadro_stats.rename(columns=dic_translate)
         player_name = df_to_quadro_stats[df_to_quadro_stats['id'] == player_id].reset_index(drop=True)['name'][0]
         cor_return = PlotStatsQuadro().df_cor(df_to_quadro_stats, player_id)
         df_stats = cor_return[2].drop('id', axis=1)
