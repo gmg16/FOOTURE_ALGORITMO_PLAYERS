@@ -205,7 +205,7 @@ class AlgoritmoRating:
 
     def algoritmo_zagueiro(self):
         df = self.df
-        df['campeotnato'] = 1
+        df['campeonato'] = 1
         construtor = round(((df['playerStats_received_pass'] ** df['playerStats_pass_algoritmo'] ** 2) * df[
             'playerStats_smart_pass_algoritmo'] * df['Passes Progressivos/Passes %'] * df[
                                 'playerStats_through_pass_algoritmo']) * (
