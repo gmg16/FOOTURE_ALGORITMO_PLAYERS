@@ -5,7 +5,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 class PreRating: 
     
-    def __init__(self, df, position):
+    def __init__(self, df, position: list):
         self.df = df 
         self.position = position
 
@@ -13,7 +13,7 @@ class PreRating:
     def filter_minutes_and_position(self):
         df = self.df
         position = self.position
-        df_posicao = df[df['primary_position'] == position].reset_index(drop=True)
+        df_posicao = df[df['primary_position'].isin(position)].reset_index(drop=True)
         competitions = list(df['season_id'].unique())
 
         # OPERAÇÃO PARA TIRAR OS ATLETAS COM BAIXA MINUTAGEM

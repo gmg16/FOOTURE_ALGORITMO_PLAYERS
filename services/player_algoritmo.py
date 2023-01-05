@@ -10,13 +10,17 @@ from aux.position_stats import stats_by_position
 
 
 
+
 class Algoritmo:
 
-    def __init__(self, season_id: int, position: str):
+    def __init__(self, season_id: list, position: str, filter_positions: list):
         query = QueryMongo()
+        filter = {'season_id':{"$in":season_id}, 'primary_position':{"$in":filter_positions}}
+        # self.df = query.general_query(db='footure_stats', collection='general_stats',
+                # search_filter={'season_id': season_id, 'primary_position': position})
         self.df = query.general_query(db='footure_stats', collection='general_stats',
-                search_filter={'season_id': season_id, 'primary_position': position})
-        data_process = PreRating(self.df, position)
+                search_filter=filter)
+        data_process = PreRating(self.df, filter_positions)
         self.df_algoritmo = data_process.data_normalize()
         self.position = position
 
